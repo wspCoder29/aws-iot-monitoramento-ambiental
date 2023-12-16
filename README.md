@@ -1,1 +1,1 @@
-# aws-iot-monitoramento-ambiental
+# AWS - Monitoramento ambiental com IoT, Timestream e Grafana
