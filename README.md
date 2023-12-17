@@ -10,6 +10,9 @@
 
 Nesse projeto utilizei os serviços da Cloud AWS, um Raspberry Pi e um sensor (BME 680) para coletar e armazenar dados ambientais em tempo real, incluindo temperatura, umidade e qualidade do ar. Os dados são transmitidos para o AWS IoT Core através do protocolo MQTT e processados com uma rule para armazenamento no AWS Time Stream. Também mostro como criar visualizações dos dados usando o Grafana, gerando painéis de controle para monitoramento de temperatura, umidade e qualidade do ar.
 
+É possível reproduzir este projeto seguindo o vídeo abaixo. 
+É necessário ter uma conta na AWS, o uso dos serviços: AWS Timestream e AWS Grafana não excederam 10 reais no total, incluindo testes durante o aprendizado e desenvolvimento deste projeto.
+
 [Vídeo do Projeto sendo implementado](https://youtu.be/YhJjQmOE6ZA)
 
 
