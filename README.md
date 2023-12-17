@@ -16,3 +16,8 @@ Itens de Hardware:
 * Led (usado para debugging, não realmente necessário)
  
 * Jumpers (fios para conexões)
+
+Software para coleta dos dados e escrita de um arquivo csv com as leituras.
+
+[Software: programa em python](URL)
+
