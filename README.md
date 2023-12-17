@@ -37,7 +37,7 @@ Software para coleta dos dados e escrita de um arquivo csv com as leituras.
 Layout do Projeto
 
 <div align="center">
-  <img src="https://github.com/wspCoder29/aws-iot-monitoramento-ambiental/blob/main/Imagens/Layout%20do%20projeto.png" width="500" height="500">
+  <img src="https://github.com/wspCoder29/aws-iot-monitoramento-ambiental/blob/main/Imagens/Layout%20do%20projeto.png" width="1000" height="500">
 </div>
 
 
