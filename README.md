@@ -43,3 +43,10 @@ Software para coleta dos dados e escrita de um arquivo csv com as leituras.
 
 
 
+* Conexões de Hardware
+
+<div align="center">
+  <img src="https://github.com/wspCoder29/aws-iot-monitoramento-ambiental/blob/main/Imagens/bmeCONECTIONS.png" width="1000" height="500">
+</div>
+
+
