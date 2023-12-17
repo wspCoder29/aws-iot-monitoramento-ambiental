@@ -8,6 +8,6 @@ Nesse projeto utilizei os serviços da Cloud AWS, um Raspberry Pi e um sensor (B
 Itens de Hardware:
 
 * Raspberri Pi4B
-* Sensor de temperatura, humidade, pressão atmosférica e qualidade do ar [BME680](https://www.sciencedaily.com/)
+* Sensor de temperatura, humidade, pressão atmosférica e qualidade do ar [BME680](https://pt.aliexpress.com/item/1005003676224000.html?src=google&src=google&albch=shopping&acnt=768-202-3196&slnk=&plac=&mtctp=&albbt=Google_7_shopping&isSmbAutoCall=false&needSmbHouyi=false&albcp=17364768653&albag=&trgt=&crea=pt1005003676224000&netw=x&device=c&albpg=&albpd=pt1005003676224000&gad_source=1&gclid=CjwKCAiA1fqrBhA1EiwAMU5m_81T6J-Q4jQ46njKIGjvVhr39i4Et92919IejDmZDfCoh-hK6Xi6zhoCwMIQAvD_BwE&gclsrc=aw.ds&aff_fcid=8d9868ed4be34ec0965a8b7567401973-1702816871135-09958-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=8d9868ed4be34ec0965a8b7567401973-1702816871135-09958-UneMJZVf&terminal_id=3c1f40854543484b9515cc2ef271eb40&afSmartRedirect=y)
 
 
