@@ -14,3 +14,5 @@ Itens de Hardware:
 * Breadboard
 
 * Led (usado para debugging, não realmente necessário)
+
+* Jumpers (fios para conexões)
