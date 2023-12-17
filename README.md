@@ -3,7 +3,9 @@
 
 
 
-<img src="https://github.com/wspCoder29/aws-iot-monitoramento-ambiental/blob/main/Imagens/imagem%20por%20DALLE.jpg" width="500" height="500">
+<div align="center">
+  <img src="https://github.com/wspCoder29/aws-iot-monitoramento-ambiental/blob/main/Imagens/imagem%20por%20DALLE.jpg" width="500" height="500">
+</div>
 
 
 Nesse projeto utilizei os serviços da Cloud AWS, um Raspberry Pi e um sensor (BME 680) para coletar e armazenar dados ambientais em tempo real, incluindo temperatura, umidade e qualidade do ar. Os dados são transmitidos para o AWS IoT Core através do protocolo MQTT e processados com uma rule para armazenamento no AWS Time Stream. Também mostro como criar visualizações dos dados usando o Grafana, gerando painéis de controle para monitoramento de temperatura, umidade e qualidade do ar.
