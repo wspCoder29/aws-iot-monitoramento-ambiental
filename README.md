@@ -32,3 +32,7 @@ Software para coleta dos dados e escrita de um arquivo csv com as leituras.
 
 [Software: programa em python](https://github.com/wspCoder29/aws-iot-monitoramento-ambiental/blob/main/Software/AWS_IoT.py)
 
+
+Layout do Projeto
+
+
