@@ -41,6 +41,8 @@ Software para coleta dos dados e escrita de um arquivo csv com as leituras.
   <img src="https://github.com/wspCoder29/aws-iot-monitoramento-ambiental/blob/main/Imagens/Layout%20do%20projeto.png" width="1000" height="500">
 </div>
 
+Os dados são coletados pelo raspberri pi e enviados via mqtt para a cloud AWS, uma rule direciona os dados para o Timestream, onde ocorre a persistência.
+Uma vez configurado, o Grafana gerenciado pela AWS permite a criação de dashboards para visualização.
 
 
 * Conexões de Hardware
